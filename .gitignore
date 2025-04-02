@@ -1,0 +1,6 @@
+config.json
+env\
+*.docx
+*.bck
+session_name.session
+*.session
